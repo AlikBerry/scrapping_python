@@ -1,0 +1,17 @@
+pgdb/
+.idea/
+.vscode/
+media/
+.venv
+*.csv
+*.CSV
+# *.txt
+*.log
+*esdata/
+esdata/
+db.sqlite3
+*.pyc
+localhost/
+migrations/
+deleted_migrations/
+
